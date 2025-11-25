@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Mentor Sans Std';
+  src: url('https://github.com/Philly07-him/random-stuff/raw/main/MentorSansStd.woff2') format('woff2'),
+       url('https://github.com/Philly07-him/random-stuff/raw/main/MentorSansStd.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
